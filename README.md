@@ -5,7 +5,7 @@ This project aims on creating a reliable and cost-effective way of waste disposa
 
 It is an open source project in progress. Every schematic and mechanical design will be uploaded, on this page, once tested and evaluated.
 
-#Components:
+# Components:
 
     1x Esp32 or an Arduino compatible board.
 
