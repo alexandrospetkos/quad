@@ -13,7 +13,7 @@ It is an open source project in progress. Every schematic and mechanical design 
 
     12x JX Servo PDI-HV5932MG 30KG Large Torque 180°
 
-    4x M3 Multiple Adjustable Push Rod End Ball Joint Linkage
+    4x M3 Adjustable Push Rod End Ball Joint Linkage
 
     4x 6900zz Ball Bearing 10x22x6mm
 
