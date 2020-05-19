@@ -1,19 +1,19 @@
 # Warp
 Waste Allocation &amp; Recognition Project
 
-This project aims on creating a reliable and cost-effective way of waste disposal using a flexible and robust four-legged robot design.
+This project aims on creating a reliable and cost-effective way of waste disposal using a robust four-legged robot design.
 
-It is an open source project in progress. Every schematic and mechanical design will be uploaded, on this page, once tested and evaluated.
+This is an open-source project placed under CC-BY. Every schematic and mechanical design will be uploaded, on this page, once tested and evaluated.
 
 # Components:
 
     1x Esp32 or an Arduino compatible board.
 
     1x PCA9685 16-Channel 12-bit PWM Servo Motor Driver I2C Module
+    
+    1x Li-Po Battery 7.4V 2600mAh
 
     12x JX Servo PDI-HV5932MG 30KG Large Torque 180°
-	
-	1x Li-Po Battery7.4V 2600mAh
 	
     4x M3 Adjustable Push Rod End Ball Joint Linkage
 
