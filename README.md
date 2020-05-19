@@ -10,10 +10,10 @@ It is an open source project in progress. Every schematic and mechanical design 
     1x Esp32 or an Arduino compatible board.
 
     1x PCA9685 16-Channel 12-bit PWM Servo Motor Driver I2C Module
+    
+    1x Li-Po Battery 7.4V 2600mAh
 
     12x JX Servo PDI-HV5932MG 30KG Large Torque 180°
-	
-	1x Li-Po Battery7.4V 2600mAh
 	
     4x M3 Adjustable Push Rod End Ball Joint Linkage
 
