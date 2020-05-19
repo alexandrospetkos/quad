@@ -12,15 +12,16 @@ It is an open source project in progress. Every schematic and mechanical design 
     1x PCA9685 16-Channel 12-bit PWM Servo Motor Driver I2C Module
 
     12x JX Servo PDI-HV5932MG 30KG Large Torque 180°
-
+	
+	1x Li-Po Battery7.4V 2600mAh
+	
     4x M3 Adjustable Push Rod End Ball Joint Linkage
 
     4x 6900zz Ball Bearing 10x22x6mm
 
     8x 626zz Ball Bearing 6x19x6mm
 
-    various bolts & nuts
-
+    - various bolts & nuts
 
 # Youtube Videos
    https://youtu.be/9Ssk_ifbPBk
