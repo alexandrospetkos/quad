@@ -1,4 +1,4 @@
-# warp
+# Warp
 Waste Allocation &amp; Recognition Project
 
 This project aims on creating a reliable and cost-effective way of waste disposal using a flexible and robust four-legged robot design.
