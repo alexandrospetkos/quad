@@ -14,7 +14,7 @@ class SerialCom {
    ::: SETUP :::
    */
 
-  int init(warp_simulation parent, String com_port, int baud_rate) {
+  int init(warp_simulation_v5 parent, String com_port, int baud_rate) {
     try {
       myPort = new Serial(parent, com_port, baud_rate); //> initializes Serial :: myPort Object
       myPort.bufferUntil('\n');
