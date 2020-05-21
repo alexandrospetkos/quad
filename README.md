@@ -3,7 +3,9 @@ Waste Allocation &amp; Recognition Project
 
 This project aims on creating a reliable and cost-effective way of waste disposal using a robust four-legged robot design.
 
-This is an open-source project placed under CC-BY. Every schematic and mechanical design will be uploaded, on this page, once tested and evaluated.
+This is an open-source project in progress. Every schematic and mechanical design will be uploaded, on this page, once tested and evaluated.
+
+placed under CC-BY
 
 # Components:
 
