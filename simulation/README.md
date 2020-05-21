@@ -4,8 +4,6 @@
  3/10/2020 by Alexandros Petkos <maestrostudioss@gmail.com>
  Updates available at https://github.com/maestrakos/warp
  
- The quadruped robot kinematics simulation or warp_simulation 
- 
  The code has been tested using Processing version 3.5.4 
  , this sketch is part of warp (Waste Allocation & Recognition Project) placed under CC-BY.
  
