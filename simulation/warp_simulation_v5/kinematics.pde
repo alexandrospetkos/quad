@@ -123,12 +123,6 @@ class Kinematics {
 
   /*
    ::: [KINEMATICS] FUNCTIONS :::
-   
-   All the functions are explained with images 
-   and graphs in the project's github page:
-   
-   https://github.com/maestrakos/warp
-   
    */
 
   /*
