@@ -1,6 +1,6 @@
 /*
   Quadruped robot arduino sketch.
-  3/10/2020 by Alexandros Petkos <maestrostudioss@gmail.com>
+  3/10/2020 by Alexandros Petkos
   Updates available at https://github.com/maestrakos/warp
 
   This kinematics sketch is placed under CC-BY.
