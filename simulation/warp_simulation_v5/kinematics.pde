@@ -75,16 +75,17 @@ class Kinematics {
 
   void handle(Vector2D direction, float turn, float period) {
     for (int l = 0; l < 4; l++) {
-      float base = c_leg_base(90);
+      float base = c_leg_base(90); //> stores the base of each leg
 
       Vector2D dir = new Vector2D(
         precision + direction.x() + turn * l_inv[l][1], 
         precision + direction.y() + turn * l_inv[l][0]);
       count_c(l, dir, period);
 
-      Vector2D rDir = c_direction_ratio(dir);  
-      Vector vector = new Vector(0, 0, 0);
+      Vector2D rDir = c_direction_ratio(dir); //> calls the clock function  
+      Vector vector = new Vector(0, 0, 0); //> default leg coordinates
 
+      //: these functions run for each leg and return a 3 dimensional vector that stores the desired leg position in cartesian coordinates
       if (state == 1 && (abs(dir.x) > precision || abs(dir.y) > precision)) {
         vector = trot_gait_func(new Vector2D(rDir.x() * c[l], l_inv[l][1] * rDir.y() * c[l]), 
           dir, boolean(l%2) ^ boolean(c_inv[l]%2));
@@ -99,6 +100,7 @@ class Kinematics {
         model.body_rRotation = new Rotator(0, direction.x()*10, direction.y()*10);
       }      
 
+      /// the 3 dimensional vector is converted through the k_model function into the three joint angles of each leg,
       model.joint_rRotation[l] = k_model(vrt_offset, hrz_offset, base, 
         0, 0, vector);
     }
@@ -173,7 +175,7 @@ class Kinematics {
 
     float a0 = sin(C0) * w0;
     float a1 = sin(C1) * l0;
-    
+
     float d0 = (1 - cos(C0)) * -w0;
     float d1 = (1 - cos(C1)) * l0;
 

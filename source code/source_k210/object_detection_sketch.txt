@@ -1,0 +1,2 @@
+The code in the object detection demo video was an example included in the maixPy GitHub repo:
+https://github.com/sipeed/MaixPy_scripts/blob/master/machine_vision/self_learning_classifier.py
