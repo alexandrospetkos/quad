@@ -1,6 +1,6 @@
 """
   Quadruped robot MaixPy IDE sketch.
-  3/10/2020 by Alexandros Petkos <maestrostudioss@gmail.com>
+  3/10/2020 by Alexandros Petkos
   Updates available at https://github.com/maestrakos/warp
 
   The quadruped robot kinematics simulation or warp_simulation is placed under CC-BY.
