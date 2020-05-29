@@ -7,6 +7,8 @@ This is an open-source project in progress. Every schematic and mechanical desig
 
 placed under CC-BY
 
+www.maestrostudio.org
+
 # Components:
 
     1x Esp32 or an Arduino compatible board.
