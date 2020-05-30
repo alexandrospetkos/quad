@@ -1,5 +1,5 @@
 """
-  Quadruped robot MaixPy IDE sketch.
+  Quadruped Robot MaixPy IDE sketch.
   3/10/2020 by Alexandros Petkos
   Updates available at https://github.com/maestrakos/warp
 
