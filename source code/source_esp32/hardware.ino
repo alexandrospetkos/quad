@@ -4,16 +4,16 @@
   [hardware] This file manages the basic hardware functions.
 
   [BACK] [LEFT], LOWER JOINT (0, 0) : servo00,
-  UPPER JOINT (0, 1) : servo02, SHLDR JOINT (0, 2) :servo04
+  UPPER JOINT (0, 1) : servo02, SHLDR JOINT (0, 2) :servo08
 
-  [FRONT][LEFT], LOWER JOINT (1, 0) : servo15,
-  UPPER JOINT (1, 1) : servo13, SHLDR JOINT (1, 2) :servo05
+  [FRONT][LEFT], LOWER JOINT (1, 0) : servo04,
+  UPPER JOINT (1, 1) : servo06, SHLDR JOINT (1, 2) :servo09
 
-  [FRONT][RIGHT], LOWER JOINT (2, 0) : servo14,
-  UPPER JOINT (2, 1) : servo12, SHLDR JOINT (2, 2) :servo07
+  [FRONT][RIGHT], LOWER JOINT (2, 0) : servo05,
+  UPPER JOINT (2, 1) : servo07, SHLDR JOINT (2, 2) :servo10
 
   [BACK] [RIGHT], LOWER JOINT (3, 0) : servo01,
-  UPPER JOINT (3, 1) : servo03, SHLDR JOINT (3, 2) :servo06
+  UPPER JOINT (3, 1) : servo03, SHLDR JOINT (3, 2) :servo11
 
 */
 
@@ -24,10 +24,10 @@
 */
 
 const int s_output[4][3] = {
-  {4, 2, 0},   // ## {chnl, chnl, chnl}
-  {5, 13, 15}, // ## {chnl, chnl, chnl}
-  {7, 12, 14}, // ## {chnl, chnl, chnl}
-  {6, 3, 1}    // ## {chnl, chnl, chnl}
+  {8, 2, 0},  // ## {chnl, chnl, chnl}
+  {9, 6, 4},  // ## {chnl, chnl, chnl}
+  {10, 7, 5}, // ## {chnl, chnl, chnl}
+  {11, 3, 1}  // ## {chnl, chnl, chnl}
 };
 
 const int s_optinv[4][3] = {
