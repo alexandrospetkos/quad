@@ -12,8 +12,12 @@ www.maestrostudio.org
 # Components:
 
     1x Esp32 or an Arduino compatible board.
+    
+    1X Sipeed M1 Dock - K210 Development Board
 
     1x PCA9685 16-Channel 12-bit PWM Servo Motor Driver I2C Module
+    
+    1x 7805 TO-2205V - 1.5A Linear Voltage Regulator
     
     1x Li-Po Battery 7.4V 2600mAh
 
