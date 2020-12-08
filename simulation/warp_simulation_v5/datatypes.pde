@@ -1,6 +1,6 @@
 /* - ::: DATATYPES :::
  
- This sketch is part of warp(Waste Allocation & Recognition Project).
+ This sketch is part of warp_kinematics.
  [datatypes] This file contains data types.
  
  */
