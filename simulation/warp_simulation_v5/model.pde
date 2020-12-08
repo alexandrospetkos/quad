@@ -1,6 +1,6 @@
 /* - ::: MODEL :::
  
- This sketch is part of warp(Waste Allocation & Recognition Project).
+ This sketch is part of warp_kinematics.
  [model] This file manages the model's 3D representation.
  
  */
