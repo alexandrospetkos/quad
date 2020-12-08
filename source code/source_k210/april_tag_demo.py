@@ -5,8 +5,6 @@
 
   The quadruped robot kinematics simulation or warp_simulation is placed under CC-BY.
 
-  This sketch is part of warp (Waste Allocation & Recognition Project).
-
   [source] This is the main file that manages AprilTag detection
 
   Comment Description:
