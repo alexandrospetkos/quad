@@ -5,7 +5,7 @@
 
   This kinematics sketch is placed under CC-BY.
 
-  This sketch is part of warp (Waste Allocation & Recognition Project).
+  This file is part of warp_kinematics.
 
   [source] This is the main file that manages [kinematics] & [hardware]
   all the important parameters are set in this file.
