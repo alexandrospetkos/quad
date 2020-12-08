@@ -5,7 +5,7 @@
  
  The quadruped robot kinematics simulation or warp_simulation 
  
- This sketch is part of warp (Waste Allocation & Recognition Project).
+ This sketch is part of warp_kinematics.
  
  [Base Class] This is the main file that manages [kinematics], [model] & [serial]. 
  All the important parameters are set in this class.
