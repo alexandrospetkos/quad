@@ -1,6 +1,6 @@
 /* - ::: KINEMATICS :::
 
-  This file is part of warp(Waste Allocation & Recognition Project).
+  This file is part of warp_kinematics.
   [hardware] This file manages the basic hardware functions.
 
   [BACK] [LEFT], LOWER JOINT (0, 0) : servo00,
