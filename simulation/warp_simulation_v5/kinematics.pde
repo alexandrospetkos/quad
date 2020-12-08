@@ -1,6 +1,6 @@
 /* - ::: KINEMATICS ::: //<>// //<>// //<>//
  
- This sketch is part of warp(Waste Allocation & Recognition Project).
+ This sketch is part of warp_kinematics.
  [kinematics] This file manages the basic kinematic functions.
  
  [BACK] [LEFT], LOWER JOINT (0, 0) : servo00,
