@@ -71,15 +71,15 @@ I use simple trigonometry, I've linked some videos to understand the basic conce
 Video 1: https://www.youtube.com/watch?v=jmgKQeorfZY
 Video 2: https://www.youtube.com/watch?v=4MGZvcd0xxc
 
- <b>Q:</b> How do I upload the sketch to the ESP32.
+ <b>Q:</b> How do I upload the sketch to the ESP32.\
  <b>A:</b> I would recommend watching a video or reading a guide for setting up the Arduino IDE for the ESP32 doit development board:
 https://www.youtube.com/watch?v=mBaS3YnqDaU
 
- <b>Q:</b> How do I upload the sketch to the ESP32.
+ <b>Q:</b> How do I upload the sketch to the ESP32.\
  <b>A:</b> I would recommend watching a video or reading a guide for setting up the Arduino IDE for the ESP32 doit development board:
 https://www.youtube.com/watch?v=mBaS3YnqDaU
 
- <b>Q:</b> If you want to avoid controlling the robot via the Dualshock Controller can you tell me which lines of code to modify? 
+ <b>Q:</b> If you want to avoid controlling the robot via the Dualshock Controller can you tell me which lines of code to modify?\
  <b>A:</b> You could remove the handle_input(); line from the loop and pass your own variables in the handle_kinematics(_direction, turn, height, _period);
 _direction (forward-back, right-left), turn (the direction and magnitude of rotation), height (the leg extension), _period (the number of steps every second)
 
