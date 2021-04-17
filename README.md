@@ -64,7 +64,7 @@ and also remove this library: #include <PS4Controller.h> - since the Arduino nan
  A: You can use a 6mm rod or a M6 screw, using screws makes it easy to disassemble the actuators afterwards - if needed.
  
  Q: How do the kinematics work?\
- A: Hello! I suggest downloading the Processing 3 simulation/demonstration I made and play around with the kinematics.pde file before using the Arduino code.
+ A: I suggest downloading the Processing 3 simulation/demonstration I made and play around with the kinematics.pde file before using the Arduino code.
 Simulation: https://github.com/maestrakos/warp/tree/master/simulation/warp_simulation_v5
 Download Processing 3: https://processing.org/download/
 
