@@ -31,8 +31,8 @@ www.maestrostudio.org
    
  # FAQ
  
- Q: Can I use other servo motors instead of the PDI-HV5932MG servos that you have used??
- A: I highly recommend using the servos I used for these build. If that is not an option the torque and the servo dimensions are the two most important
+ Q: Can I use other servo motors instead of the PDI-HV5932MG servos that you have used??\
+ A: I highly recommend using the servos I used for these build. If that is not an option the torque and the servo dimensions should be as close as possible.\
  
  Q: What are the dimensions of your robot? (Fully extended height and its width)
  A: The dimensions of the robot are 30cm x 25.5cm x 9-23cm (23cm with the legs fully extended) - the main body's dimensions are 30cm x 18cm x 6cm, you can also refer to the .step file I provide in GitHub: https://github.com/maestrakos/warp/tree/master/resources/CAD/3D%20Models
