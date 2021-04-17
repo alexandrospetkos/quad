@@ -80,7 +80,7 @@ https://www.youtube.com/watch?v=mBaS3YnqDaU
 https://www.youtube.com/watch?v=mBaS3YnqDaU
 
  <b>Q:</b> If you want to avoid controlling the robot via the Dualshock Controller can you tell me which lines of code to modify?\
- <b>A:</b> You could remove the handle_input(); line from the loop and pass your own variables in the handle_kinematics(_direction, turn, height, _period);
+ <b>A:</b> You could remove the handle_input(); from the loop and pass your own variables in the handle_kinematics(_direction, turn, height, _period);
 _direction (forward-back, right-left), turn (the direction and magnitude of rotation), height (the leg extension), _period (the number of steps every second)
 
 
