@@ -29,7 +29,7 @@ www.maestrostudio.org
 
    https://youtu.be/xpSewWf5jvI
    
- # FAQ
+# Frequently Asked Questions
  
  Q: Can I use other servo motors instead of the PDI-HV5932MG servos that you have used??\
  A: I highly recommend using the servos I used for this build. If that is not an option the torque and the servo dimensions should be as close as possible.
