@@ -31,7 +31,7 @@ www.maestrostudio.org
    
 # Frequently Asked Questions
  
- Q: Can I use other servo motors instead of the PDI-HV5932MG servos that you have used??\
+ <b>Q:</b> Can I use other servo motors instead of the PDI-HV5932MG servos that you have used??\
  A: I highly recommend using the servos I used for this build. If that is not an option the torque and the servo dimensions should be as close as possible.
  
  Q: What are the dimensions of your robot? (Fully extended height and its width)\
@@ -67,7 +67,6 @@ and also remove this library: #include <PS4Controller.h> - since the Arduino nan
  A: I suggest downloading the Processing 3 simulation/demonstration I made and play around with the kinematics.pde file before using the Arduino code.
 Simulation: https://github.com/maestrakos/warp/tree/master/simulation/warp_simulation_v5
 Download Processing 3: https://processing.org/download/
-
 I use simple trigonometry, I've linked some videos to understand the basic concept:
 Video 1: https://www.youtube.com/watch?v=jmgKQeorfZY
 Video 2: https://www.youtube.com/watch?v=4MGZvcd0xxc
