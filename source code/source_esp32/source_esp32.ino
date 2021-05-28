@@ -215,7 +215,7 @@ float inter(float in, float en, float pl) {
 
 #define properties 0
 void commands_exe(float val1, float val2, float val3) {
-  //: propertios 0 is used to calibrate the joints
+  //: properties 0 is used to calibrate the joints
   if (properties == 0) {
     int leg = val1;
     int joint = val2;
@@ -230,7 +230,7 @@ void commands_exe(float val1, float val2, float val3) {
 
     set_servo(leg, joint, servo);
   }
-  //: propertios 1 is used for small adjustments to balance the weight
+  //: properties 1 is used for small adjustments to balance the weight
   else if (properties == 1) {
     int leg = val1;
     int empty = val2;
