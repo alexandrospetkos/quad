@@ -1,5 +1,7 @@
 placed under CC-BY
 
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/Sblo40GJvZc/0.jpg)](https://www.youtube.com/watch?v=Sblo40GJvZc)
+
 www.maestrostudio.org
 
 # Components:
